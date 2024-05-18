@@ -1,7 +1,7 @@
 
 # Helmet detection Using YOLOv5
 
-A YOLOv5 model to detect non helmet riders from the traffic footage.
+This project centers on the development of a robust Helmet Detection System designed to enhance road safety by identifying instances of riders not wearing helmets from live traffic footage. The system leverages the cutting-edge YoloV5 model, which has been meticulously trained on a comprehensive dataset comprising 14 thousand images.
 
 
 
